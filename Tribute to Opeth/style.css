@@ -1,0 +1,89 @@
+body{
+    background-color: gray;
+    font-size: 16px;
+}
+
+h1{
+    margin: 0;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Sacramento', cursive;
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.band{
+    margin-top: 0;
+    height: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    border: solid 10px;
+    border-color: white;
+    border-style: outset;
+}
+
+p{
+    text-align: left;
+    padding-top: 25px;
+    padding-left: 10%;
+    padding-right: 10%;
+    color: white;
+    font-family: 'Piazzolla', serif;
+}
+
+.opeth{    
+    margin: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+}
+
+.favourite-albums,
+tr,
+td,
+th{
+    color: white;
+    margin: auto;
+    border: solid 2px;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Piazzolla', serif;
+    line-height: 1.5;
+}
+
+ul{
+    color: white;
+    font-family: 'Piazzolla', serif;
+    font-size: 1rem;
+    margin: auto;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+.foot{
+    text-align: center;
+    background-color: white;
+    width: 100%;
+    margin: auto;
+    padding-bottom: 5px;
+}
+
+.trivia{
+    padding-bottom: 25px;
+}
+
+.item{
+    color: black;
+    display: inline;
+    padding-left: 15px;
+}
+
+li{
+    margin: 10px;
+}
+
